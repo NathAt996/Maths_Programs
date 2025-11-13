@@ -20,7 +20,7 @@ public class Quadratic_Calculator {
         System.out.println("a = " + a + "\nb = " + b + "\nc = " + c);
 
         System.out.println();
-        System.out.println("test");
+        System.out.println("test ignore");
 
 
         //discriminant + calculate the result
