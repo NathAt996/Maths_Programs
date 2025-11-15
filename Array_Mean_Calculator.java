@@ -18,7 +18,7 @@ public class Array_Mean_Calculator {
 
         System.out.println("\nEnter " + myList.length + " values");
 
-        
+
         for (int i = 0; i < myList.length; i++) {
 
             myList[i] = userInput.nextDouble();
