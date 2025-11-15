@@ -39,7 +39,7 @@ public class Deposit_Savings_Calculator {
     }
 
     public static double deposit (double p, double w) {
-        
+
         return (p / 100) * w;
     }
 
