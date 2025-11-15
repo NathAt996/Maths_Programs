@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Magic_Number_Guess {
 
     public static void main(String[] args) {
-        
+
         int number = (int)(Math.random() * 101);
 
         Scanner userInput = new Scanner (System.in);
