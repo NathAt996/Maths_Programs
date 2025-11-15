@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Subtraction_Test {
 
     public static void main(String[] args) {
-        
+
         int count = 0;
         int correctCount = 0;
         long startTime = System.currentTimeMillis();
