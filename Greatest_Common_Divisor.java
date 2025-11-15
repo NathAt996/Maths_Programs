@@ -16,7 +16,7 @@ public class Greatest_Common_Divisor {
 
         int gcd = 1;
         int k = 2;
-        
+
         while (k <= n1 && k <= n2) {
 
             if (n1 % k == 0 && n2 % k == 0) {
