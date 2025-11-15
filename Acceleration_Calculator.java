@@ -14,7 +14,7 @@ public class Acceleration_Calculator {
         double userInitial = userInput.nextDouble();
         double userFinal = userInput.nextDouble();
         double userTime = userInput.nextDouble();
-        
+
         System.out.println("The average acceleration is " + acceleration(userInitial, userFinal, userTime));
 
     }
