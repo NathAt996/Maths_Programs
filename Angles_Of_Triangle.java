@@ -40,7 +40,7 @@ public class Angles_Of_Triangle {
         double A = angleA(a, b, c);
         double B = angleB(a, b, c);
         double C = angleC(a, b, c);
-        
+
         System.out.println("Angle A = : " + Math.round(A));
         System.out.println("Angle B = : " + Math.round(B));
         System.out.println("Angle C = : " + Math.round(C));
