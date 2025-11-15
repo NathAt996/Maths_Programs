@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pythagoras_Theorem {
 
     public static void main(String[] args) {
-        
+
         //Case Study: Computing Pythagoras Theorem with method
 
         Scanner userInput = new Scanner(System.in);
