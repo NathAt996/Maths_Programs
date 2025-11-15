@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Mean_Calculator {
 
     public static void main(String[] args) {
-        
+
         Scanner userInput = new Scanner (System.in);
 
         System.out.println("Enter an integer, the input ends if it is 0");
