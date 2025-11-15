@@ -5,7 +5,7 @@ public class Spheres {
     public static void main(String[] args)
     {
         Scanner userInput = new Scanner (System.in);
-        
+
         System.out.println("Select one of the following 3D shapes " +
                 "1 = Sphere, 2 = Cylinder, 3 = Cone \n");
 
