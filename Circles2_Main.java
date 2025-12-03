@@ -11,9 +11,9 @@ public class Circles2_Main {
 
         Circles2_Obj circle1 = new Circles2_Obj(userRadii);
 
-        System.out.printf("Area: %.2f", circle1.getArea());
+        System.out.printf("Area: %.4f", circle1.getArea());
         System.out.println();
-        System.out.printf("Perimeter: %.2f", circle1.getPerimeter());
-        
+        System.out.printf("Perimeter: %.4f", circle1.getPerimeter());
+
     }
 }
